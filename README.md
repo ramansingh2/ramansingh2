@@ -2,6 +2,9 @@
 
 
 
+
+
+
 - 🔭 I’m currently working on tablaeu
 - 🌱 I’m currently learning Data Science as specialization
 - 👯 I’m looking to collaborate on Data Science and Big Data Projects.
@@ -15,3 +18,5 @@
 
 
 [![Raman's github stats](https://github-readme-stats.vercel.app/api?username=ramansingh2&&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+
+[![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=ramansingh2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
