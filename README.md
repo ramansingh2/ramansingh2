@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raman__codes)](https://twitter.com/raman__codes) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkdin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raman-singh-969a64176/) 
 [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/raman_rudra_singh/?hl=en)
- [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+ [![Mail Badge](https://img.shields.io/badge/-mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)]
 
 <!-- TODO: Add last video link -->
 
