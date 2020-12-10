@@ -14,4 +14,4 @@
 
 
 
-[![Raman's github stats](https://github-readme-stats.vercel.app/api?username=ramansingh2)](https://github.com/anuraghazra/github-readme-stats)
+[![Raman's github stats](https://github-readme-stats.vercel.app/api?username=ramansingh2&&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
