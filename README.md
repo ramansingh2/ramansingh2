@@ -11,12 +11,16 @@
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on **Slearn** (Professional Courses Platform).
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+
+- 🔭 I’m currently working on tablaeu
+- 🌱 I’m currently learning Data Science as specialization
+- 👯 I’m looking to collaborate on Data Science and Big Data Projects.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything
+- 📫 How to reach me: 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: i just love listning to music and singing .
+-->
 
 #### Top Technologies
 
@@ -52,6 +56,16 @@
 
 <br />
 <br />
+
+
+
+
+
+
+[![Raman's github stats](https://github-readme-stats.vercel.app/api?username=ramansingh2&&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+
+[![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=ramansingh2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
