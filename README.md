@@ -14,10 +14,7 @@
 
 - 🔭 I’m currently working on tablaeu
 - 🌱 I’m currently learning Data Science as specialization
-- 👯 I’m looking to collaborate on Data Science and Big Data Projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: 
+- 👯 I’m looking to collaborate on Data Science and Big Data Projects,Web Development Projects.
 -💻 Most used line of code `git commit -m "Initial Commit"`
 - ⚡ Fun fact: i just love listning to music and singing .
 -->
@@ -44,7 +41,7 @@
 ![MySQL](https://img.shields.io/twitter/url?color=000000&label=MySQL&logo=MySQL&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)&nbsp;
 ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=Apache)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=Mathworks)&nbsp;
+
 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
